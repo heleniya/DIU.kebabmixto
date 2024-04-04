@@ -9,7 +9,8 @@ puede impactar en nuestro diseño. Definir unos objetivos claros es importante
 para el desarrollo de nuestro producto.
 La investigación la hemos realizado mediante nuestras experiencias, además
 de algunas encuestas a nuestro entorno.
-(User Research.pdf)
+[Ver el PDF](User Research.pdf)
+
 
 - Desk research: Análisis Competencia.
 El propósito de este an´alisis es identificar y analizar las caracter´ısticas, for-
