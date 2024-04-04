@@ -4,11 +4,12 @@
 
 - User research.
 El objetivo del User Research es establecer el contexto y objetivos de la
-investigaci´on y descubrir lo que es importante para los usuarios y c´omo esto
-puede impactar en nuestro dise˜no. Definir unos objetivos claros es importante
+investigación y descubrir lo que es importante para los usuarios y cómo esto
+puede impactar en nuestro diseño. Definir unos objetivos claros es importante
 para el desarrollo de nuestro producto.
-La investigaci´on la hemos realizado mediante nuestras experiencias, adem´as
+La investigación la hemos realizado mediante nuestras experiencias, además
 de algunas encuestas a nuestro entorno.
+(User Research.pdf)
 
 - Desk research: Análisis Competencia.
 El propósito de este an´alisis es identificar y analizar las caracter´ısticas, for-
