@@ -1,6 +1,6 @@
 ## DIU - Practica1, entregables
 
-- User research.
+**- User research**
 El objetivo del User Research es establecer el contexto y objetivos de la
 investigación y descubrir lo que es importante para los usuarios y cómo esto
 puede impactar en nuestro diseño. Definir unos objetivos claros es importante
@@ -11,7 +11,7 @@ de algunas encuestas a nuestro entorno.
   [Ver el PDF](UserResearch.pdf)
 
 
-- Desk research: Análisis Competencia.
+**- Desk research: Análisis Competencia**
 El propósito de este análisis es identificar y analizar las características, for-
 talezas y debilidades de las páginas web de la competencia que también ofrecen
 productos y servicios similares al nuestro. En este caso hemos analizado las
@@ -21,9 +21,9 @@ incluir en nuestro proyecto, como por ejemplo: la existencia de privilegios para
 socios. Acdem´as hemos conseguido detectar caracter´ısticas que queremos evitar
 como la falta de informaci´on relevante en la página principal.
 
-  [Ver el PDF](CompetitorAnalysisis.pdf)
+  [Ver el PDF Analisis de competencia](CompetitorAnalysisis.pdf)
 
-- 2 Personas 
+**- 2 Personas**
 El objetivo de la creación de personas ficticias es desarrollar perfiles detalla-
 dos de usuarios típicos o ideales para representar las necesidades, objetivos, y
 comportamientos de nuestra audiencia objetivo.
@@ -34,10 +34,11 @@ vo poder cubrir todas sus necesidades. Nuestra segunda persona es Helen: una
 estudiante de Nutrición, extranjera, vive sola y quiere mejorar su estilo de vida
 aunque no dispone de demasiado tiempo libre.
 
-  [Ver el PDF](User1.pdf)
-  [Ver el PDF](User2.pdf)
+  [Ver el PDF del primer usuario](User1.pdf)
+  
+  [Ver el PDF del segundo usuario](User2.pdf)
 
-- 2 User Journey Map
+**- 2 User Journey Map**
 El objetivo al realizar journey maps para las personas ficticias es visualizar
 la experiencia y el proceso que cada persona atraviesa al buscar e inscribirse en
 un taller o curso de cocina, identificando puntos negativos y oportunidades de
@@ -56,10 +57,11 @@ muy bien el funcionamiento de la página web y esta no se encuentra traduci-
 da a varios idiomas por lo que se le presenta una dificultad aumentada lo que
 convierte la reserva de un taller en algo poco apetecible.
 
-  [Ver el PDF](User1JourneyMap.pdf)
-  [Ver el PDF](User2JourneyMap.pdf)
+  [Ver el PDF del primer Journey Map](User1JourneyMap.pdf)
+  
+  [Ver el PDF del segundo Journey Map](User2JourneyMap.pdf)
 
-- Revisión de Usabilidad 
+**- Revisión de Usabilidad** 
 Esta herramienta nos permite evaluar la usabilidad y experiencia de usuario
 de uno de los sitios web de la competencia, en este caso Granada Cooking, iden-
 tificando problemas específicos. Los aspectos positivos que podríamos destacar
@@ -73,7 +75,7 @@ La puntuación obtenida por esta página en nuestro informe es de 71 puntos
 por lo que es un resultado muy positivo, aunque creemos que se podrían pulir
 algunos detalles para alcanzar un nivel superior.
 
-  [Ver el PDF](Usability-review.pdf)
+  [Ver el PDF de usabilidad](Usability-review.pdf)
 
 
 - Valoración y conclusiones de esta etapa
