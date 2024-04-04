@@ -8,7 +8,7 @@ para el desarrollo de nuestro producto.
 La investigación la hemos realizado mediante nuestras experiencias, además
 de algunas encuestas a nuestro entorno.
 
-[Ver el PDF](UserResearch.pdf)
+  [Ver el PDF](UserResearch.pdf)
 
 
 - Desk research: Análisis Competencia.
@@ -20,7 +20,8 @@ al análisis realizado hemos descubierto características positivas que queremos
 incluir en nuestro proyecto, como por ejemplo: la existencia de privilegios para
 socios. Acdem´as hemos conseguido detectar caracter´ısticas que queremos evitar
 como la falta de informaci´on relevante en la página principal.
-[Ver el PDF](CompetitorAnalysisis.pdf)
+
+  [Ver el PDF](CompetitorAnalysisis.pdf)
 
 - 2 Personas 
 El objetivo de la creación de personas ficticias es desarrollar perfiles detalla-
@@ -33,8 +34,8 @@ vo poder cubrir todas sus necesidades. Nuestra segunda persona es Helen: una
 estudiante de Nutrición, extranjera, vive sola y quiere mejorar su estilo de vida
 aunque no dispone de demasiado tiempo libre.
 
-[Ver el PDF](User1.pdf)
-[Ver el PDF](User2.pdf)
+  [Ver el PDF](User1.pdf)
+  [Ver el PDF](User2.pdf)
 
 - 2 User Journey Map
 El objetivo al realizar journey maps para las personas ficticias es visualizar
@@ -55,8 +56,8 @@ muy bien el funcionamiento de la página web y esta no se encuentra traduci-
 da a varios idiomas por lo que se le presenta una dificultad aumentada lo que
 convierte la reserva de un taller en algo poco apetecible.
 
-[Ver el PDF](User1JourneyMap.pdf)
-[Ver el PDF](User2JourneyMap.pdf)
+  [Ver el PDF](User1JourneyMap.pdf)
+  [Ver el PDF](User2JourneyMap.pdf)
 
 - Revisión de Usabilidad 
 Esta herramienta nos permite evaluar la usabilidad y experiencia de usuario
@@ -72,7 +73,7 @@ La puntuación obtenida por esta página en nuestro informe es de 71 puntos
 por lo que es un resultado muy positivo, aunque creemos que se podrían pulir
 algunos detalles para alcanzar un nivel superior.
 
-[Ver el PDF](Usability-review.pdf)
+  [Ver el PDF](Usability-review.pdf)
 
 
 - Valoración y conclusiones de esta etapa
