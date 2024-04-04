@@ -78,7 +78,7 @@ algunos detalles para alcanzar un nivel superior.
   [Ver el PDF de usabilidad](Usability-review.pdf)
 
 
-- Valoración y conclusiones de esta etapa
+**- Valoración y conclusiones de esta etapa**
 En esta pr´actica, hemos realizado un an´alisis de la experiencia de usuario
 (UX) y usabilidad en p´aginas web dedicadas a la oferta de talleres y cursos de co-
 cina. A trav´es de m´etodos como el user research basado en experiencias directas
