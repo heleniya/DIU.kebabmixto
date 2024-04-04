@@ -9,18 +9,19 @@ puede impactar en nuestro diseño. Definir unos objetivos claros es importante
 para el desarrollo de nuestro producto.
 La investigación la hemos realizado mediante nuestras experiencias, además
 de algunas encuestas a nuestro entorno.
-[Ver el PDF](User Research.pdf)
+[Ver el PDF](UserResearch.pdf)
 
 
 - Desk research: Análisis Competencia.
-El propósito de este an´alisis es identificar y analizar las caracter´ısticas, for-
-talezas y debilidades de las p´aginas web de la competencia que tambi´en ofrecen
+El propósito de este análisis es identificar y analizar las características, for-
+talezas y debilidades de las páginas web de la competencia que también ofrecen
 productos y servicios similares al nuestro. En este caso hemos analizado las
-caracter´ısticas de dos p´aginas web: Pilsaeduca.com y Granadacooking. Gracias
-al an´alisis realizado hemos descubierto caracter´ısticas positivas que queremos
+características de dos páginas web: Pilsaeduca.com y Granadacooking. Gracias
+al análisis realizado hemos descubierto características positivas que queremos
 incluir en nuestro proyecto, como por ejemplo: la existencia de privilegios para
 socios. Acdem´as hemos conseguido detectar caracter´ısticas que queremos evitar
 como la falta de informaci´on relevante en la página principal.
+[Ver el PDF](CompetitorAnalysisis.pdf)
 
 - 2 Personas 
 El objetivo de la creaci´on de personas ficticias es desarrollar perfiles detalla-
@@ -32,6 +33,8 @@ un hombre de mediana edad, divorciado, con una hija y que tiene como objeti-
 vo poder cubrir todas sus necesidades. Nuestra segunda persona es Helen: una
 estudiante de Nutrici´on, extranjera, vive sola y quiere mejorar su estilo de vida
 aunque no dispone de demasiado tiempo libre.
+[Ver el PDF](User1.pdf)
+[Ver el PDF](User2.pdf)
 
 - 2 User Journey Map
 El objetivo al realizar journey maps para las personas ficticias es visualizar
@@ -50,7 +53,9 @@ cursos y talleres fue algo que le impact´o positivamente.
 En el caso de Helen la experiencia es mayormente negativa, ya que no entiende
 muy bien el funcionamiento de la p´agina web y esta no se encuentra traduci-
 da a varios idiomas por lo que se le presenta una dificultad aumentada lo que
-convierte la reserva de un taller en algo poco apetecible
+convierte la reserva de un taller en algo poco apetecible.
+[Ver el PDF](User1JourneyMap.pdf)
+[Ver el PDF](User2JourneyMap.pdf)
 
 - Revisión de Usabilidad 
 Esta herramienta nos permite evaluar la usabilidad y experiencia de usuario
@@ -65,6 +70,7 @@ tecnolog´ıa o el idioma y la incomodidad que provoca el calendario.
 La puntuaci´on obtenida por esta p´agina en nuestro informe es de 71 puntos
 por lo que es un resultado muy positivo, aunque creemos que se podr´ıan pulir
 algunos detalles para alcanzar un nivel superior.
+[Ver el PDF](Usability-review.pdf)
 
 
 - Valoración y conclusiones de esta etapa
