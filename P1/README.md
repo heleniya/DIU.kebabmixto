@@ -79,15 +79,15 @@ algunos detalles para alcanzar un nivel superior.
 
 
 **- Valoración y conclusiones de esta etapa**
-En esta pr´actica, hemos realizado un an´alisis de la experiencia de usuario
-(UX) y usabilidad en p´aginas web dedicadas a la oferta de talleres y cursos de co-
-cina. A trav´es de m´etodos como el user research basado en experiencias directas
+En esta práctica, hemos realizado un análisis de la experiencia de usuario
+(UX) y usabilidad en páginas web dedicadas a la oferta de talleres y cursos de co-
+cina. A través de métodos como el user research basado en experiencias directas
 y encuestas, junto con el desarrollo de personas ficticias y journey maps, hemos
-logrado una comprensi´on detallada de las necesidades y comportamientos de los
-usuarios. El an´alisis de la competencia, enfocado en sitios como Pilsaeduca.com
+logrado una comprensión detallada de las necesidades y comportamientos de los
+usuarios. El análisis de la competencia, enfocado en sitios como Pilsaeduca.com
 y Granadacooking, nos ha permitido identificar fortalezas y debilidades, resal-
-tando la importancia de una navegaci´on clara y la disponibilidad de informaci´on
-relevante desde la p´agina principal. El usability review de Granada Cooking nos
+tando la importancia de una navegación clara y la disponibilidad de información
+relevante desde la página principal. El usability review de Granada Cooking nos
 ha mostrado una experiencia de usuario mayormente positiva, aunque con mar-
 gen de mejora en aspectos como la flexibilidad de la b´usqueda y la accesibilidad
-para usuarios con limitaciones tecnol´ogicas o ling¨u´ısticas.
+para usuarios con limitaciones tecnológicas o lingüísticas.
