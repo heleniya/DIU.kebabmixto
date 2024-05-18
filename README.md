@@ -5,14 +5,14 @@ Grupo: DIU2_kebabmixto.  Curso: 2023/24
 Updated: 21/3/2024
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+### Sabor Artesanal 
 
 Descripción: 
 
 >>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+!(img/logo-modified.png)
 
 Miembros
  * :bust_in_silhouette:  Luis Arrabal Gutiérrez     :octocat:     
