@@ -128,8 +128,8 @@ Término | Significado
 
 >>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
->>> Los patrones que vamos a utililzar para el diseño son los siguientes:
-+ Onboarding: Es la secuencia de pantallas iniciales que guían a los nuevos usuarios a través de las principales características y beneficios de la aplicación.
+###Los patrones que vamos a utililzar para el diseño son los siguientes:
++ Onboarding: Es la secuencia de pantallas iniciales que guían a los nuevos usuarios a través de las principales características de la aplicación.
 + Menu (Navbar adaptada a móvil): Es una barra de navegación superior diseñada para facilitar la navegación del usuario por la aplicación.
 + Hero image y Carrousel: Una imagen grande y llamativa sobre uno de los talleres colocada en la parte superior de la página, acompañada de un carrusel de imágenes de otros talleres que rota.
 + Search: Una barra de búsqueda en la parte superior de la pantalla que permite buscar cursos, recetas, etc.
