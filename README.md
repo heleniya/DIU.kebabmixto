@@ -12,7 +12,7 @@ Descripción:
 >>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
-!(img/logo-modified.png)
+![](img/logo-modified.png)
 
 Miembros
  * :bust_in_silhouette:  Luis Arrabal Gutiérrez     :octocat:     
