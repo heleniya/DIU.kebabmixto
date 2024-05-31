@@ -29,17 +29,29 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+>>> El objetivo del User Research es establecer el contexto y objetivos de la
+investigación y descubrir lo que es importante para los usuarios y cómo esto
+puede impactar en nuestro diseño. Definir unos objetivos claros es importante
+para el desarrollo de nuestro producto.
+La investigación la hemos realizado mediante nuestras experiencias, además
+de algunas encuestas a nuestro entorno.
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
+![Competitive Analysis](P1/CompetitorAnalysis.pdf)
+>>> GranadaCooking ofrece ventajas para socios y tiene una página bien construida, sin embargo presenta algunos fallos que pueden hacer que la experiencia del usuario sea desagradable, como el calendario para seleccionar talleres que es poco intuitivo e incomódo.
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+PilsaEduca también ofrece una gran variedad de talleres de cocina y es fácil de usa. Aunque tienen un gran abanico de talleres, la información de la web nos ha parecido escasa lo que puede complicar la elección de una actividad.
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
+![Usuario 1](P1/User1.pdf)
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+![Usuario 1](P1/User2.pdf)
+
+>>> Hemos seleccionado a estas personas porque nos parecía interesante ponernos en la piel de personas que pueden tener problemas más allá de la tecnología. Helen, una estudiante de nutrición extranjera, enfrenta desafíos adicionales debido al idioma, lo que complica su interacción con la web. Por otro lado, Leonardo, un padre de mediana edad con un horario apretado, necesita aprender a cocinar para cubrir una necesidad urgente, lo que añade presión a su experiencia de usuario.
+
+Esta selección nos permite explorar y abordar una variedad de problemas reales que los usuarios pueden enfrentar, desde barreras lingüísticas hasta restricciones de tiempo, lo que enriquece el desarrollo y diseño de nuestro producto .
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
