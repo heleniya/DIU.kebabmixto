@@ -114,7 +114,7 @@ de algunas encuestas a nuestro entorno.
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
-![moodboard](LandingPage.png)
+![Landing PAge](P3/LandingPage.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
