@@ -109,7 +109,7 @@ de algunas encuestas a nuestro entorno.
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
-![moodboard](moodboard.png)
+![moodboard](P3/moodboard.png)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
