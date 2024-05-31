@@ -75,13 +75,13 @@ de algunas encuestas a nuestro entorno.
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
-![](P2/malla.png)
+![Malla Receptora](P2/malla.png)
 
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
-![](P2/PropuestaValor.png)
+![Propuesta de valor](P2/PropuestaValor.png)
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
@@ -109,18 +109,12 @@ de algunas encuestas a nuestro entorno.
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
-
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+![moodboard](moodboard.png)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
-
-
->>> Plantear Landing Page 
+![moodboard](LandingPage.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
