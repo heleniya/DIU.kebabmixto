@@ -38,16 +38,16 @@ de algunas encuestas a nuestro entorno.
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
-![Competitive Analysis](P1/CompetitorAnalysis.pdf)
+![Competitive Analysis](P1/CompetitorAnalysis.png)
 >>> GranadaCooking ofrece ventajas para socios y tiene una página bien construida, sin embargo presenta algunos fallos que pueden hacer que la experiencia del usuario sea desagradable, como el calendario para seleccionar talleres que es poco intuitivo e incomódo.
 
 PilsaEduca también ofrece una gran variedad de talleres de cocina y es fácil de usa. Aunque tienen un gran abanico de talleres, la información de la web nos ha parecido escasa lo que puede complicar la elección de una actividad.
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
-![Usuario 1](P1/User1.pdf)
+![Usuario 1](P1/User1.png)
 
-![Usuario 1](P1/User2.pdf)
+![Usuario 1](P1/User2.png)
 
 >>> Hemos seleccionado a estas personas porque nos parecía interesante ponernos en la piel de personas que pueden tener problemas más allá de la tecnología. Helen, una estudiante de nutrición extranjera, enfrenta desafíos adicionales debido al idioma, lo que complica su interacción con la web. Por otro lado, Leonardo, un padre de mediana edad con un horario apretado, necesita aprender a cocinar para cubrir una necesidad urgente, lo que añade presión a su experiencia de usuario.
 
