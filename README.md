@@ -2,14 +2,14 @@
 Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Experiencias gastrónomicas ) 
 
 Grupo: DIU2_kebabmixto.  Curso: 2023/24 
-Updated: 21/3/2024
+Updated: 31/5/2024
 
 Proyecto: 
 ### Sabor Artesanal 
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Nuestra página web se centra en ofrecer experiencias gastronómicas a través de una variedad de cursos y talleres de cocina. Nuestro objetivo es proporcionar a los usuarios una experiencia agradable y enriquecedora, facilitando el aprendizaje de habilidades culinarias en un entorno accesible y bien diseñado.
 
 Logotipo: 
 ![](img/logo-modified.png)
