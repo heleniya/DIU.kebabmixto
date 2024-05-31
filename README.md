@@ -75,48 +75,33 @@ de algunas encuestas a nuestro entorno.
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
-
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+![](P2/malla.png)
 
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+![](P2/PropuestaValor.png)
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
-
->>> Definir "User Map" y "Task Flow" ... 
+![User Task Matrix](P2/taskmatrix.png)
+![User FLow](P2/userFlow.png)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
+ ![Labelling](P2/labelling.png)
+ ![SiteMap](P2/SiteMap.png)
+ 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
+ ![Boceto 1: Página inicial](P2/inicial.png)
+ ![Boceto 2: Página calendario](P2/calendario.png)
+ ![Boceto 3: Página ofertas](P2/ofertas.png)
+ ![Boceto 4: Página contáctanos](P2/contactanos.png)
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
