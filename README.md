@@ -38,34 +38,36 @@ de algunas encuestas a nuestro entorno.
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
-![Competitive Analysis](P1/CompetitorAnalysis.png)
+![Competitive Analysis](P1/CompetitiveAnalysis.png)
 >>> GranadaCooking ofrece ventajas para socios y tiene una página bien construida, sin embargo presenta algunos fallos que pueden hacer que la experiencia del usuario sea desagradable, como el calendario para seleccionar talleres que es poco intuitivo e incomódo.
 
-PilsaEduca también ofrece una gran variedad de talleres de cocina y es fácil de usa. Aunque tienen un gran abanico de talleres, la información de la web nos ha parecido escasa lo que puede complicar la elección de una actividad.
+>>> PilsaEduca también ofrece una gran variedad de talleres de cocina y es fácil de usa. Aunque tienen un gran abanico de talleres, la información de la web nos ha parecido escasa lo que puede complicar la elección de una actividad.
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 ![Usuario 1](P1/User1.png)
 
-![Usuario 1](P1/User2.png)
+![Usuario 2](P1/User2.png)
 
 >>> Hemos seleccionado a estas personas porque nos parecía interesante ponernos en la piel de personas que pueden tener problemas más allá de la tecnología. Helen, una estudiante de nutrición extranjera, enfrenta desafíos adicionales debido al idioma, lo que complica su interacción con la web. Por otro lado, Leonardo, un padre de mediana edad con un horario apretado, necesita aprender a cocinar para cubrir una necesidad urgente, lo que añade presión a su experiencia de usuario.
 
-Esta selección nos permite explorar y abordar una variedad de problemas reales que los usuarios pueden enfrentar, desde barreras lingüísticas hasta restricciones de tiempo, lo que enriquece el desarrollo y diseño de nuestro producto .
+>>> Esta selección nos permite explorar y abordar una variedad de problemas reales que los usuarios pueden enfrentar, desde barreras lingüísticas hasta restricciones de tiempo, lo que enriquece el desarrollo y diseño de nuestro producto .
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
+![Journey 1](P1/Journey1.png)
+![Journey 2](P1/Journey2.png)
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+>>> Hemos elegido la experiencia de Leonardo porque es representativa de usuarios con limitaciones de tiempo y responsabilidades familiares, lo cual es una situación habitual para muchos adultos. Esto nos ayuda a identificar y solucionar problemas relacionados con la accesibilidad y eficiencia de la web.
+>>> Hemos elegido la experiencia de Helen para representar a los usuarios que enfrentan desafíos adicionales debido al idioma y la falta de familiaridad con la plataforma. Esta situación es común para muchos estudiantes internacionales y usuarios no nativos, lo que nos permite diseñar soluciones más inclusivas y accesibles.
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+>>> - Enlace al documento:  ![(Enlace al pdf](P1/Usability-review.pdf)
+>>> - Valoración final (numérica): 71
+>>> - Comentario sobre la valoración:  Granada Cooking presenta una usabilidad moderada. Aunque la web tiene una navegación consistente y enlaces claros, su sobrecarga de información y procesos de reserva complicados pueden frustrar a los usuarios. Sin embargo, cuenta con secciones bien organizadas y suficiente contenido visual.
 
 
 ## Paso 2. UX Design  
