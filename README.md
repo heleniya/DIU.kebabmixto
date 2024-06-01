@@ -158,6 +158,11 @@ En resumen, nuestro moodboard combina colores claros, tipografías legibles, im�
 ----
 ![Landing PAge](P3/LandingPage.png)
 
+### Descripción de la Landing Page
+
+>>> Nuestra landing page de Sabor Artesanal está diseñada para atraer a entusiastas de la cocina de todos los niveles, ofreciendo talleres culinarios variados. Hemos utilizado los colores y tipografías de nuestra marca para asegurar una experiencia de usuario coherente y atractiva.
+>>> Esta landing page combina colores atractivos, tipografías legibles y contenido inspirador para promover nuestra academia culinaria y atraer a nuevos estudiantes.
+
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
