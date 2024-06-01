@@ -1,19 +1,16 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
-* Malla receptora de información 
-* Mapa de empatía
-* Point of View 
-
+![](malla.png)
 
 ### PROPUESTA DE VALOR
-* ScopeCanvas
+![](PropuestaValor.png)
 
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
-* User/Task flow
+![](taskmatrix.png)
+![](userFlow.png)
 
 
 ### ARQUITECTURA DE INFORMACIÓN
