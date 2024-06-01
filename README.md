@@ -105,7 +105,7 @@ de algunas encuestas a nuestro entorno.
   ![Página principal](P3/indexboceto(1).png)
   ![Calendario](P3/calendarioboceto.png)
   ![Contáctanos](P3/calendar.jpeg)
-  ![Ofertas](P3/ofer.jpeg)
+  ![Ofertas](P3/ofert.jpeg)
      
 
 
