@@ -98,14 +98,18 @@ de algunas encuestas a nuestro entorno.
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
  ![Boceto 1: Página inicial](P2/inicial.png)
+   ![Página principal](P3/indexboceto(1).png)
  ![Boceto 2: Página calendario](P2/calendario.png)
+   ![Calendario](P3/calendarioboceto.png)
  ![Boceto 3: Página ofertas](P2/ofertas.png)
+   ![Ofertas](P3/ofert.jpeg)
  ![Boceto 4: Página contáctanos](P2/contactanos.png)
+   ![Contáctanos](P3/calendar.jpeg)
 
-  ![Página principal](P3/indexboceto(1).png)
-  ![Calendario](P3/calendarioboceto.png)
-  ![Contáctanos](P3/calendar.jpeg)
-  ![Ofertas](P3/ofert.jpeg)
+
+
+
+
      
 
 
