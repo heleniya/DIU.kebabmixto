@@ -187,7 +187,7 @@ Los patrones que vamos a utililzar para el diseño son los siguientes:
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 [https://www.figma.com/design/f96SAtI0UP8AQqCdTd3lqi/DIU2_kebabmixto?node-id=0%3A1&t=FTKdFDzxgUleTMOC-1]
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+>>> El mockup nos lleva por varias tareas destacables en nuestra web, como son: iniciar sesión, seleccionar un taller del calendario, contactar con la empresa, ver las reservas del usuario y reservar un taller.
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
