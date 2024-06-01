@@ -103,9 +103,9 @@ de algunas encuestas a nuestro entorno.
  ![Boceto 4: Página contáctanos](P2/contactanos.png)
 
   ![Página principal](P3/indexboceto(1).png)
-  ![Calendario](P2/calendario.png)
-  ![Contáctanos](P2/calendar.jpg)
-  ![Ofertas](P2/ofer.jpg)
+  ![Calendario](P3/calendarioboceto.png)
+  ![Contáctanos](P3/calendar.jpeg)
+  ![Ofertas](P3/ofer.jpeg)
      
 
 
