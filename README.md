@@ -102,6 +102,14 @@ de algunas encuestas a nuestro entorno.
  ![Boceto 3: Página ofertas](P2/ofertas.png)
  ![Boceto 4: Página contáctanos](P2/contactanos.png)
 
+  ![Página principal](P3/indexboceto(1).png)
+  ![Calendario](P2/calendario.png)
+  ![Contáctanos](P2/calendar.jpg)
+  ![Ofertas](P2/ofer.jpg)
+     
+
+
+
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
