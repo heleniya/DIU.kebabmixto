@@ -30,4 +30,7 @@
    ![Contáctanos](../P3/calendar.jpeg)
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+A lo largo de este proceso de ideación y diseño, hemos navegado a través de
+varias etapas críticas, desde la recopilación de feedback hasta el desarrollo de
+un prototipo funcional. Hemos seguido estos pasos para transformar la visión
+inicial del proyecto en una propuesta de valor tangible.
