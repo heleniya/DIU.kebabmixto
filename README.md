@@ -122,6 +122,35 @@ de algunas encuestas a nuestro entorno.
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 ![moodboard](P3/moodboard.png)
+>>> Descripción del Moodboard
+>>> Paleta de Colores: Azul claro (#70a3d9): Confianza y serenidad.
+    Blanco nieve (#f8fbff): Luminosidad y contraste.
+    Azul de información (#c7e0f9): Claridad en secciones clave.
+    Amarillo de advertencia (#ffe079): Alertas importantes.
+    Verde de éxito (#4b83bd): Estabilidad y logro.
+    Rojo de peligro (#ff6868): Precauciones críticas.
+
+>>> Concepto: Sabor Artesanal
+>>> Promovemos la gastronomía con talleres culinarios que exploran la historia y cultura de cada plato, creando experiencias educativas inclusivas.
+>>> Tipografía
+
+    Merriweather: Legible y elegante.
+    Montserrat: Accesibilidad y modernidad.
+
+Imágenes
+
+Muestran la colaboración entre chefs y estudiantes, destacando la enseñanza experta y la superación de desafíos culinarios en un entorno acogedor.
+Logo y Eslogan
+
+    Logo: Diseño moderno con gorro de chef y tenedor en azul claro, evocando confianza y serenidad.
+    Eslogan: "Sabores que cuentan historias y unen culturas."
+
+Directrices
+
+Guía visual basada en pautas de marca, enfocada en estrategia, imágenes, colores, tipografía, comentarios y diseño del logo.
+
+En resumen, nuestro moodboard combina colores claros, tipografías legibles, imágenes inspiradoras y un diseño de logo inclusivo para nuestra academia culinaria.
+
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
