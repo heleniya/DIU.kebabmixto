@@ -7,8 +7,8 @@
 ![](LandingPage.png)
 
 ## Mockup: LAYOUT HI-FI
-![Ver animación]([https://www.figma.com/design/f96SAtI0UP8AQqCdTd3lqi/DIU2_kebabmixto?node-id=0%3A1&t=FTKdFDzxgUleTMOC-1]
-)
+![Ver animación][https://www.figma.com/design/f96SAtI0UP8AQqCdTd3lqi/DIU2_kebabmixto?node-id=0%3A1&t=FTKdFDzxgUleTMOC-1]
+
 
 ## Documentación: Publicación del Case Study
 
