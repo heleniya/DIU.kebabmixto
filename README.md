@@ -266,8 +266,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
+>> ![(Enlace al pdf](P4/[P4_UsabReport_DIU2CaOs_doneby_DIU2_kebabmixto.pdf]
 
 
 >>> Valoración personal 
