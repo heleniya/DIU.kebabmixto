@@ -200,18 +200,15 @@ Los patrones que vamos a utililzar para el diseño son los siguientes:
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
 
-Exportación a HTML/Flutter
------
+Diseño del experimento 
+----
 
 ![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
 
-> PAra el estudio hemos utilizado gazerecorder.com, esta web nos permite comprobar cuáles son los puntos d einterés y que más atención se llevan de una página web para detectar posibles mejoras.
+> Para el estudio hemos utilizado gazerecorder.com, esta web nos permite comprobar cuáles son los puntos d einterés y que más atención se llevan de una página web para detectar posibles mejoras.
 > Este estudio lo hemos hecho para la aplicación de SaborGranada que nos ha sido asignada, en el siguiente enlace se pueden comprobar los resultados:
 
 [Eye Tracking](P4/EyeTracking.pdf)
-
-Diseño del experimento 
-----
 
 >>La tarea que va a realizar el usuario es reservar un taller.
 
@@ -223,11 +220,17 @@ Diseño del experimento
 
 Resultados y valoración 
 -----
+Para el test hemos añadido un usuario experto, y 2 usuarios objetivo, como los de la tabla anterior,
+dándonos unos resultados casi idénticos en los usuarios objetivo, y unos resultados también muy
+parecidos respecto al usuario experto, ya que todos se han centrado en lo primordial para hacer la
+reserva.
 
+Y los puntos de interés obtenidos han sido idénticos para todos los usuarios, siendo esto así, porque
+al ser el objetivo principal la reserva, se han centrado en seguir los pasos principales para poder
+hacerla.
 
+Como conclusión, podemos decir que la aplicación se centra en lo importante, haciendo una experiencia más rápida y satisfactoria, por su sencillez y formato, bien diseñada, teniendo todo accesible y cerca, con una paleta de colores y tipografía de letras de son agradables.
 
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
 
 
 
