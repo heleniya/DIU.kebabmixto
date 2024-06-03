@@ -169,6 +169,8 @@ En resumen, nuestro moodboard combina colores claros, tipografías legibles, im�
 >>> Estudio de Guidelines y Patrones IU a usar 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
 
+## Mejora P3 
+[Guidelines](P3/guidelines.pdf)
 Los patrones que vamos a utililzar para el diseño son los siguientes:
 + Onboarding: Es la secuencia de pantallas iniciales que guían a los nuevos usuarios a través de las principales características de la aplicación.
 + Menu (Navbar adaptada a móvil): Es una barra de navegación superior diseñada para facilitar la navegación del usuario por la aplicación.
