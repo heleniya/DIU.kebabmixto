@@ -121,7 +121,7 @@ de algunas encuestas a nuestro entorno.
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
-![moodboard](P3/moodboard.png)
+![moodboard](P3/Moodboard_mejorado.jpg)
 ### Descripción del Moodboard
 
 #### Paleta de Colores
@@ -147,7 +147,7 @@ Muestran la colaboración entre chefs y estudiantes, destacando la enseñanza ex
 - **Eslogan**: "Sabores que cuentan historias y unen culturas."
 
 #### Directrices
-Guía visual basada en pautas de marca, enfocada en estrategia, imágenes, colores, tipografía, comentarios y diseño del logo.
+Guía visual basada en pautas de marca, enfocada en estrategia, imágenes, colores, iconos, tipografía, comentarios y diseño del logo.
 
 En resumen, nuestro moodboard combina colores claros, tipografías legibles, imágenes inspiradoras y un diseño de logo inclusivo para nuestra academia culinaria.
 
