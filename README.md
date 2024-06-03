@@ -214,10 +214,8 @@ Diseño del experimento
 
 >> Areas de interés:
 
-![experimento](P4/foto1.png)  
-![experimento](P4/foto2.png)  
-![experimento](P4/foto3.png)  
-![experimento](P4/foto4.png)  
+![experimento](P4/foto1.png)  ![experimento](P4/foto2.png)  
+![experimento](P4/foto3.png)  ![experimento](P4/foto4.png)  
 
 
 Resultados y valoración 
