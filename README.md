@@ -205,8 +205,9 @@ Exportación a HTML/Flutter
 
 ![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
 
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
-
+> PAra el estudio hemos utilizado gazerecorder.com, esta web nos permite comprobar cuáles son los puntos d einterés y que más atención se llevan de una página web para detectar posibles mejoras.
+> Este estudio lo hemos hecho para la aplicación de SaborGranada que nos ha sido asignada, en el siguiente enlace se pueden comprobar los resultados:
+[Eye Tracking](P4/EyeTracking.pdf)
 Diseño del experimento 
 ----
 
