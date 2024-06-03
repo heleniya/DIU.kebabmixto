@@ -210,13 +210,15 @@ Diseño del experimento
 
 [Eye Tracking](P4/EyeTracking.pdf)
 
->>La tarea que va a realizar el usuario es reservar un taller.
+>> La tarea que va a realizar el usuario es reservar un taller.
 
+>> Areas de interés:
 
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
+![experimento](P4/foto1.png)  
+![experimento](P4/foto2.png)  
+![experimento](P4/foto3.png)  
+![experimento](P4/foto4.png)  
 
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
 
 Resultados y valoración 
 -----
