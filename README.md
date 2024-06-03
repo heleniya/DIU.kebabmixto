@@ -207,12 +207,13 @@ Exportación a HTML/Flutter
 
 > PAra el estudio hemos utilizado gazerecorder.com, esta web nos permite comprobar cuáles son los puntos d einterés y que más atención se llevan de una página web para detectar posibles mejoras.
 > Este estudio lo hemos hecho para la aplicación de SaborGranada que nos ha sido asignada, en el siguiente enlace se pueden comprobar los resultados:
+
 [Eye Tracking](P4/EyeTracking.pdf)
+
 Diseño del experimento 
 ----
 
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
+>>La tarea que va a realizar el usuario es reservar un taller.
 
 
 ![experimento](img/experimentoET.png)  
