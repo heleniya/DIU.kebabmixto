@@ -9,9 +9,6 @@
 ## GuideLines
 [Ver pdf](guidelines.pdf)
 
-
-## Mockup: LAYOUT HI-FI
-[Ver animación](https://www.figma.com/design/f96SAtI0UP8AQqCdTd3lqi/DIU2_kebabmixto?node-id=0%3A1&t=FTKdFDzxgUleTMOC-1)
 Ademas los patrones que vamos a utililzar para el diseño son los siguientes:
 
    - Onboarding: Es la secuencia de pantallas iniciales que guían a los nuevos usuarios a través de las principales características de la aplicación.
@@ -27,6 +24,11 @@ Ademas los patrones que vamos a utililzar para el diseño son los siguientes:
    - About: Una sección "Sobre Nosotros" que incluye la historia de la academia de cocina y su misión.
    - Event Calendar (disponibilidad): Un calendario donde los usuarios pueden ver todas las clases de cocina programadas para el mes.
    - Tags/Etiquetas/Categorías: Etiquetas como "Pastelería", "Cocina Italiana", "Principiantes" para filtrar recetas o cursos.
+
+
+
+## Mockup: LAYOUT HI-FI
+[Ver animación](https://www.figma.com/design/f96SAtI0UP8AQqCdTd3lqi/DIU2_kebabmixto?node-id=0%3A1&t=FTKdFDzxgUleTMOC-1)
 
 
 ## Documentación: Publicación del Case Study
