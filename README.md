@@ -236,7 +236,9 @@ Resultados y valoración
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+>>> Se nos ha asignado la página web de SaborGranada, esta propone una versión combinada de las tradicionales webs sobre gastronomía, ofreciendo no solo información sobre restaurantes y la posibilidad de reservar mesa en ellos, sino también talleres para aprender sobre cocina.
+
+[https://github.com/carmenqr/DIU.git]
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
@@ -244,13 +246,7 @@ Resultados y valoración
 
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
  
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+ ![Roleplay](P4/Users.png)
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
@@ -260,8 +256,9 @@ Resultados y valoración
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+>>> ![Resultados](P4/ABTesting.png)
 
+>>> Hemos contado con cuatro usuarios distintos, que han sido inventados, y en los que nos hemos puesto en su piel, es decir, hemos hecho la técnica de role playing. Las conclusiones a las que hemos llegado, es que la web está muy bien diseñada y el que el diseño te vaya guiando hace que sea fácil de navegar, y no necesites ayuda, pero ha sido un poco larga la espera para la confirmación de un taller reservado, aunque los usuarios no han tenido gran problema en eso.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
@@ -269,10 +266,12 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >> [(Enlace al pdf](P4/P4_UsabReport_DIU2CaOs_doneby_DIU2_kebabmixto.pdf)
 
 
->>> Valoración personal 
 
 
+>>>  La página web ofrece talleres de cocina de diversas culturas, y poder descubrir nuevos restaurantes.El objetivo principal es descubrir sabores, recetas y pasártelo bien.
+Ofrecen un viaje gastronómico, acompañado por un chef experimentado que te va a guiar todo el rato en el caso de coger un taller, y una gran facilidad para reservar en restaurantes.
 
+>>> En cuanto al diseño podemos observar como el color naranja y blanco son los que más destacan, teniendo las letras en color negro, que transmite una sensación de sencillez y elegancia a su vez. Es una página web bastante bien elaborada, ya que su formato es simple en cuanto a contenido, pero muy completa, ya que tiene para poder buscar blogs de otras personas, reservar un restaurante, y reservar talleres, siendo estas dos últimas opciones muy fáciles de hacer, porque la página web nos va guiando sobre qué hacer, y no da lugar a perdernos y no saber cuál es el siguiente paso. Tiene la opción de crearte un perfil, y el logo es elegante, perfecto para atraer a más clientes.
 
 
 5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
