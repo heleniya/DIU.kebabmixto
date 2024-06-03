@@ -263,7 +263,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> [(Enlace al pdf](P4/P4_UsabReport_DIU2CaOs_doneby_DIU2_kebabmixto.pdf)
+>> [Enlace al pdf](P4/P4_UsabReport_DIU2CaOs_doneby_DIU2_kebabmixto.pdf)
 
 
 
@@ -278,13 +278,15 @@ Ofrecen un viaje gastronómico, acompañado por un chef experimentado que te va 
 ----
 
 
->> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
+>>  [Usability report](P4/P4_UsabReport_DIU2CaOs_doneby_DIU2_kebabmixto.pdf)
 >> con los resultados del A/B testing, de eye tracking y del usability report:
 >>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
+>>> A la hora de realizar el test de usabilidad, lo primero que hemos hecho es crear nuestros cuatro usuarios ficticios utilizando un dado, una vez creados hemos determinado la interacción de cada uno con la página, teniendo roles muy diversos que abarcan una gran mayoría de las personas.
+>>> Para la realización de las tareas nos hemos centrado en las preguntas del test de usabilidad, por ejemplo, ver si es complejo navegar en la página, si necesitaría ayuda, si necesitan saber algo antes, etc.
+>>> Como resultado del test nos ha dado una valoración de +80 lo cuál está muy bien, como se aprecia en el apartado 4 del documento. Y también a cada usuario se le ha hecho un test de eye tracking, cuyos resultados se ven en el apartado 3.
 
-
-
-
+>>> Conclusiones: Como aspecto negativo solo hemos notado una cierta demora en cargar las páginas,  y que no hay un apartado de “Quienes somos”. 
+Aún así, a nosotros nos ha gustado bastante la página, ya que nos parece estética, y que se centra en lo importante, haciendo una experiencia más rápida y satisfactoria, por su sencillez y formato, bien diseñada, teniendo todo accesible y cerca, con una paleta de colores y tipografía de letras de son agradables.
 
 
 ## Conclusión final / Valoración de las prácticas
